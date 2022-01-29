@@ -1,7 +1,6 @@
 {
   "name": "pokedex",
-  "version": "0.0.0",
-  "homepage": "./dist",
+  "version": "0.0.5",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
