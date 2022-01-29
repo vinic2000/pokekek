@@ -1,6 +1,11 @@
 {
   "name": "pokedex",
   "version": "0.0.5",
+  "homepage": "https://vinic2000.github.io/pokekek/",
+  "author": {
+    "name": "Vinicius"
+  },
+
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
